@@ -17,3 +17,5 @@ Head over to [CONTRIBUTING.md](https://github.com/himanshubalani/first_contribut
 | <img src="https://github.com/ashutoshutane.png" width=50px> | Ashutosh Utane |  https://github.com/ashutoshutane
 | <img src="https://github.com/Anuragadhau.png" width=50px> | Anurag adhau |  https://github.com/Anuragadhau
  <img src="https://avatars.githubusercontent.com/u/93252366?v=4" width=50px> | Ayush Jagdhane | https://github.com/animex007
+ | <img src="https://github.com/Harshitghagre.png" width=50px> | Harshit ghagre |  https://github.com/Harshitghagre
+
